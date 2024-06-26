@@ -25,27 +25,27 @@ $this->registerJsFile("@web/js/echarts.min.js",['position'=>\yii\web\View::POS_H
         <div class="row">
             <div class="col-md-3">
                 <p><span class="glyphicon glyphicon-briefcase"><label> 商务合作 </label></span></p>
-                <p><span class="glyphicon glyphicon-user">:李先生</span></p>
-                <p><span class="glyphicon glyphicon-earphone">:16605110306</span></p>
-                <p><span class="glyphicon glyphicon-exclamation-sign">:3464285<span class="badge"><small>请注明来意</small></span></span></p>
+                <p><span class="glyphicon glyphicon-user">:</span></p>
+                <p><span class="glyphicon glyphicon-earphone">:</span></p>
+                <p><span class="glyphicon glyphicon-exclamation-sign">:<span class="badge"><small></small></span></span></p>
             </div>
             <div class="col-md-3">
                 <p><b>市场合作</b></p>
-                <p><span class="glyphicon glyphicon-user">:李先生</span></p>
-                <p><span class="glyphicon glyphicon-earphone">:16605110306</span></p>
-                <p><span class="glyphicon glyphicon-exclamation-sign">:3464285<span class="badge"><small>请注明来意</small></span></span></p>
+                <p><span class="glyphicon glyphicon-user">:</span></p>
+                <p><span class="glyphicon glyphicon-earphone">:</span></p>
+                <p><span class="glyphicon glyphicon-exclamation-sign">:<span class="badge"><small></small></span></span></p>
             </div>
             <div class="col-md-3">
                 <p><b>技术支持</b></p>
-                <p><span class="glyphicon glyphicon-user">:李先生</span></p>
-                <p><span class="glyphicon glyphicon-earphone">:16605110306</span></p>
-                <p><span class="glyphicon glyphicon-exclamation-sign">:3464285<span class="badge"><small>请注明来意</small></span></span></p>
+                <p><span class="glyphicon glyphicon-user">:</span></p>
+                <p><span class="glyphicon glyphicon-earphone">:</span></p>
+                <p><span class="glyphicon glyphicon-exclamation-sign">:<span class="badge"><small></small></span></span></p>
             </div>
             <div class="col-md-3">
                 <p><b>联系我们</b></p>
-                <p><span class="glyphicon glyphicon-user">:李先生</span></p>
-                <p><span class="glyphicon glyphicon-earphone">:16605110306</span></p>
-                <p><span class="glyphicon glyphicon-exclamation-sign">:3464285<span class="badge"><small>请注明来意</small></span></span></p>
+                <p><span class="glyphicon glyphicon-user">:</span></p>
+                <p><span class="glyphicon glyphicon-earphone">:</span></p>
+                <p><span class="glyphicon glyphicon-exclamation-sign">:<span class="badge"><small></small></span></span></p>
             </div>
         </div>
     </div>
