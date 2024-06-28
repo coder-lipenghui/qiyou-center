@@ -12,11 +12,14 @@ class AppAsset extends AssetBundle
     public $basePath = '@webroot';
     public $baseUrl = '@web';
     public $css = [
+        'https://unpkg.com/element-ui/lib/theme-chalk/index.css',
         'css/site.css',
-        'bootstrap-select/css/bootstrap-select.css'
+        'bootstrap-select/css/bootstrap-select.css',
     ];
     public $js = [
+        'js/vue.min.js',
         'bootstrap-select/js/bootstrap-select.js',
+        'https://unpkg.com/element-ui/lib/index.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',
